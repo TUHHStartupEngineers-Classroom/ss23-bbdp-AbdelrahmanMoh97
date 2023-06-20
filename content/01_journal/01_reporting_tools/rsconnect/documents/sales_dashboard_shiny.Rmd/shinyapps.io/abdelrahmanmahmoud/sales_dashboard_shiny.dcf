@@ -1,0 +1,13 @@
+name: sales_dashboard_shiny
+title: sales_dashboard_shiny
+username:
+account: abdelrahmanmahmoud
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9339637
+bundleId: 7368407
+url: https://abdelrahmanmahmoud.shinyapps.io/sales_dashboard_shiny/
+when: 1687295044.59922
+lastSyncTime: 1687295044.59923
+asMultiple: FALSE
+asStatic: FALSE
